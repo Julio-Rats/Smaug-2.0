@@ -124,16 +124,16 @@ With many bugfixes as well as important and useful new code and build features.
 	- data/classes:       Classes files.
 	- data/councils:      Councils files.
 	- data/corpses:       Death corpses (initially empty).
-	- data/deity:	    	  Realm Deities.
+	- data/deity:	      Realm Deities.
 	- data/deleted:       Deleted Player files (initially empty).
 	- data/houses:        Houses files.
 	- data/gods:          God players.
 	- data/mudprogs:      MUD Program files.
 	- data/player:        Player files (initially empty).
 	- data/system/LC_ALL: MUD Game System files.
-	- data/races:	    	  Races files.
-	- data/vault:	    	  Guilds Vaults
-	- data/web:	    	    Web files & Online Client
+	- data/races:	      Races files.
+	- data/vault:	      Guilds Vaults
+	- data/web:	      Web files & Online Client
 
 
 #### Features
